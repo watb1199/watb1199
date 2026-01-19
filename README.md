@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy Wilmer
 
-<!--
-**watb1199/watb1199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Web Front-End en formación  
+🚀 Buscando mi primera oportunidad en IT
 
-Here are some ideas to get you started:
+## 🧠 Sobre mí
+Actualmente estoy realizando un **curso de Desarrollo Full Stack**.  
+Ya finalicé el módulo de **Desarrollo Web** y en breve comienzo con **JavaScript**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me enfoco en crear interfaces limpias, responsive y bien estructuradas, aplicando buenas prácticas de maquetado y control de versiones.
+
+## 🛠️ Tecnologías
+- HTML
+- CSS
+- Bootstrap
+- Sass
+- Flexbox
+- Git & GitHub
+
+## 📂 Proyectos
+🔹 **Landing Page / Tienda Online (LolUp)**  
+Maquetado web responsive con HTML, CSS, Bootstrap y Sass.  
+🔗 Demo: https://watb1199.github.io/preentrega/  
+🔗 Código: https://github.com/watb1199/preentrega
+
+*(Agregá más proyectos a medida que avances)*
+
+## 🎯 Objetivo
+Conseguir mi **primer trabajo como desarrollador web junior**, donde pueda seguir aprendiendo y aportar valor al equipo.
+
+📫 **Contacto**
+- LinkedIn: https://www.linkedin.com/in/wilmer-tenias-689140385/

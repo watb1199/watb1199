@@ -23,7 +23,6 @@ Maquetado web responsive con HTML, CSS, Bootstrap y Sass.
 🔗 Demo: https://watb1199.github.io/preentrega/  
 🔗 Código: https://github.com/watb1199/preentrega
 
-*(Agregá más proyectos a medida que avances)*
 
 ## 🎯 Objetivo
 Conseguir mi **primer trabajo como desarrollador web junior**, donde pueda seguir aprendiendo y aportar valor al equipo.
